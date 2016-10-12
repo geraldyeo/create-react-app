@@ -1,6 +1,6 @@
 {
   "name": "@grldyeo/react-scripts",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Gerald's configuration and scripts for Create React App.",
   "repository": "git@github.com:geraldyeo/create-react-app.git",
   "license": "BSD-3-Clause",
@@ -127,6 +127,7 @@
     "url-loader",
     "webpack",
     "webpack-dev-server",
+    "webpack-manifest-plugin",
     "whatwg-fetch"
   ]
 }
