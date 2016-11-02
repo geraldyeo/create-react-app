@@ -1,6 +1,6 @@
 {
   "name": "gerald-react-scripts-fork",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "Gerald's fork of the configuration and scripts for Create React App.",
   "repository": "geraldyeo/create-react-app",
   "license": "BSD-3-Clause",
@@ -105,7 +105,6 @@
     "extract-text-webpack-plugin",
     "file-loader",
     "filesize",
-    "find-cache-dir",
     "fs-extra",
     "gzip-size",
     "html-webpack-plugin",
